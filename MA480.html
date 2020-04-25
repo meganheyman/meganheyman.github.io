@@ -1,0 +1,114 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<!-- saved from url=(0017)http://had.co.nz/ -->
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html;
+      charset=windows-1252">
+    <title>MA 480 Time Series</title>
+    <link rel="stylesheet" type="text/css" href="style.css">  
+    <meta name="verify-v1"
+      content="VO/AqSceU4SiCKMtFDZG5vDVPKDmpMlnhPcVLYMVkFI=">
+  </head>
+  <body>
+    <script src="./index_files/urchin.js" type="text/javascript">
+    </script>
+    <div id="navbar"> </div>
+      <div id="wrap">
+        <h2>MA 480: Time Series</h2>
+        
+        <b>Pre-req:</b>  MA 381 (Introduction to Probability) OR MA 223 (Engineering Statistics) <br> 
+        
+        <b>Textbook:</b> No required text, but we will follow notation and examples from a couple optional textbooks.  These are freely available through the RHIT library. <br> <br>
+
+        <strong>
+          You may count the course credit toward any of
+          <ul>
+          <li>Statistics & OR core for math majors</li>
+          <li>Statistics minor</li>
+          <li>Technical elective or free elective</li>
+          </ul>
+        </strong>
+        
+        <p><br></p>        
+       <h2>What are time series?</h2>
+        <p>
+          Quantities recorded in an ordered fashion (e.g. over time) compose time series.
+          Daily stock market price, monthly unemployment rate, hourly temperature, and number of new COVID-19 cases per day are a few familiar examples of time series.
+          Social scientists may track birth rates and school enrollments over several years.
+          In medicine, weekly blood pressure measurements could be useful for evaluating drugs in treating hypertension.
+          Functional magnetic resonance imaging (fMRI) of brain waves over a few seconds may be used to understand how the brain reacts to certain stimuli.
+          Scientists at NASA use satellites collect daily measurements of weather and pollution globally to study climate.
+          Transportation engineers track numbers and types of vehicles hourly to understand traffic flow patterns.
+          There are many, many more real scenarios where time series occur.  
+        </p>
+        
+        <p><br></br></p>
+        <h2>Why are time series worth studying?</h2>
+        <p>
+          Let's consider a simple example.
+          Suppose you measure a temperature of 90 degrees Fahrenheit in Terre Haute at noon on July 4th.  If you took another temperature measurement
+          at the same location, just an hour later, what temperature would you predict?  What about 5 hours later?
+          You know that Terre Haute experiences temperatures roughly between 0 degrees and 100 degrees Fahrenheit throughout the year.    
+        </p>
+        
+        <p>
+          It seems nearly impossible that the temperature would randomly fluctuate down to 20 degrees just one hour later, or even five hours later, in the middle of summer.
+          You probably guessed that both temperatures would be close to 90 degrees Fahrenheit.
+          If so, your guess makes use of the fact that the temperature one hour in the future is dependent on the current temperature.
+          Even though five hours is farther away, temporally, the temperatures would still be related.
+          However, if you ignored the dependence and randomly selected from the range of temperatures that Terre Haute sees, you may have arrived at
+          a guess like 20 degrees Fahrenheit.
+        </p>
+        
+        <p>
+          Because observations that are temporally close may be related, dependence within time series data creates a unique challenge with respect to statistical modeling.
+          For example, when performing statistical inference in simple linear regression, it is common to make the assumption that "errors are independent."
+          Employing a traditional statistical analysis when the data are composed of time series would not properly account for the dependence.  
+          This could yield under- or over-estimation of variance and untrustworthy results.
+          Time series methods provide flexibility to describe dependence structures within the data, while simultaneously creating a statistical model.
+        </p> 
+
+        
+ 
+        <p><br></p>        
+        <h2>If you take MA 480 (Time Series), you will have experience</h2>
+        <p> <ul>
+          <li>Programming in R and writing reproducible reports of the analysis outcome using Markdown.</li>
+          <li>Analyzing real time series data.</li>
+          <li>Describing several types of dependence structures and formulating statistical models which incorporate dependence.</li>
+          <li>Communicating results of several statistical analyses.</li>
+        </ul>
+        
+        This course covers correlation structures, autoregressive (AR), and moving average (MA) modeling for stationary series.
+        We also will dive into modeling nonstationary series, spectral analysis, and filtering.  Real datasets from several different STEM and
+        non-STEM applications will appear during lectures, in class assignments, and as the main topic of student projects.
+        </p>
+        
+        <p><br></br></p>
+        For funsies, below are some plots (created in R) of various time series that we'll work with during the term.
+        
+        
+        <h3> Example time series with AR(1) structure</h3>
+        
+        <object data="https://plotly.com/~elegacy14/34/?share_key=xtTZYGASRnkBpXqOjfOQWm" width="900" height="500">
+          <embed src="https://plotly.com/~elegacy14/34/?share_key=xtTZYGASRnkBpXqOjfOQWm" width="900" height="500"></embed>
+        </object>
+
+        <h3> Example time series with MA(1) structure</h3>
+        
+        <h3> Example time series filtering with wavelets</h3>
+
+
+
+    <script type="text/javascript">  _uacct = "UA-67989-2";  urchinTracker();  </script>
+    <div id="footer" style="color:purple">
+      <p>
+        <meta charset="utf-8">
+        Disclaimer : The views
+        and opinions expressed in this page are strictly those of the
+        author. The contents on this page have not been formally approved by Rose-Hulman Institute of Technology.
+      </p>
+      <p>&copy; Megan Heyman 2020</p>
+    </div>  
+  </body>
+</html>
