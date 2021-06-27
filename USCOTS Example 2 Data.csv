@@ -1,0 +1,233 @@
+County,Year,WaterPerCapita
+Alameda County,1995,161
+Alameda County,2005,109
+Alameda County,2010,149
+Alameda County,2015,104
+Alpine County,1995,122
+Alpine County,2005,250
+Alpine County,2010,253
+Alpine County,2015,142
+Amador County,1995,365
+Amador County,2005,297
+Amador County,2010,251
+Amador County,2015,309
+Butte County,1995,294
+Butte County,2005,192
+Butte County,2010,230
+Butte County,2015,154
+Calaveras County,1995,177
+Calaveras County,2005,169
+Calaveras County,2010,292
+Calaveras County,2015,199
+Colusa County,1995,236
+Colusa County,2005,144
+Colusa County,2010,230
+Colusa County,2015,136
+Contra Costa County,1995,156
+Contra Costa County,2005,176
+Contra Costa County,2010,176
+Contra Costa County,2015,135
+Del Norte County,1995,137
+Del Norte County,2005,123
+Del Norte County,2010,139
+Del Norte County,2015,97
+El Dorado County,1995,430
+El Dorado County,2005,123
+El Dorado County,2010,260
+El Dorado County,2015,178
+Fresno County,1995,255
+Fresno County,2005,643
+Fresno County,2010,313
+Fresno County,2015,180
+Glenn County,1995,265
+Glenn County,2005,214
+Glenn County,2010,242
+Glenn County,2015,137
+Humboldt County,1995,358
+Humboldt County,2005,185
+Humboldt County,2010,130
+Humboldt County,2015,91
+Imperial County,1995,188
+Imperial County,2005,242
+Imperial County,2010,206
+Imperial County,2015,146
+Inyo County,1995,198
+Inyo County,2005,212
+Inyo County,2010,337
+Inyo County,2015,136
+Kern County,1995,253
+Kern County,2005,443
+Kern County,2010,288
+Kern County,2015,196
+Kings County,1995,293
+Kings County,2005,492
+Kings County,2010,210
+Kings County,2015,203
+Lake County,1995,138
+Lake County,2005,193
+Lake County,2010,208
+Lake County,2015,79
+Lassen County,1995,325
+Lassen County,2005,240
+Lassen County,2010,435
+Lassen County,2015,190
+Los Angeles County,1995,158
+Los Angeles County,2005,205
+Los Angeles County,2010,149
+Los Angeles County,2015,124
+Madera County,1995,302
+Madera County,2005,593
+Madera County,2010,219
+Madera County,2015,133
+Marin County,1995,161
+Marin County,2005,125
+Marin County,2010,129
+Marin County,2015,109
+Mariposa County,1995,244
+Mariposa County,2005,557
+Mariposa County,2010,326
+Mariposa County,2015,136
+Mendocino County,1995,176
+Mendocino County,2005,228
+Mendocino County,2010,159
+Mendocino County,2015,141
+Merced County,1995,219
+Merced County,2005,583
+Merced County,2010,246
+Merced County,2015,235
+Modoc County,1995,253
+Modoc County,2005,256
+Modoc County,2010,294
+Modoc County,2015,135
+Mono County,1995,305
+Mono County,2005,311
+Mono County,2010,251
+Mono County,2015,165
+Monterey County,1995,124
+Monterey County,2005,251
+Monterey County,2010,129
+Monterey County,2015,99
+Napa County,1995,164
+Napa County,2005,157
+Napa County,2010,156
+Napa County,2015,122
+Nevada County,1995,203
+Nevada County,2005,303
+Nevada County,2010,246
+Nevada County,2015,165
+Orange County,1995,169
+Orange County,2005,131
+Orange County,2010,180
+Orange County,2015,145
+Placer County,1995,225
+Placer County,2005,241
+Placer County,2010,216
+Placer County,2015,169
+Plumas County,1995,268
+Plumas County,2005,158
+Plumas County,2010,219
+Plumas County,2015,136
+Riverside County,1995,294
+Riverside County,2005,229
+Riverside County,2010,243
+Riverside County,2015,188
+Sacramento County,1995,296
+Sacramento County,2005,220
+Sacramento County,2010,223
+Sacramento County,2015,160
+San Benito County,1995,155
+San Benito County,2005,308
+San Benito County,2010,145
+San Benito County,2015,106
+San Bernardino County,1995,205
+San Bernardino County,2005,207
+San Bernardino County,2010,237
+San Bernardino County,2015,159
+San Diego County,1995,154
+San Diego County,2005,147
+San Diego County,2010,169
+San Diego County,2015,126
+San Francisco County,1995,126
+San Francisco County,2005,102
+San Francisco County,2010,102
+San Francisco County,2015,78
+San Joaquin County,1995,192
+San Joaquin County,2005,206
+San Joaquin County,2010,186
+San Joaquin County,2015,144
+San Luis Obispo County,1995,190
+San Luis Obispo County,2005,168
+San Luis Obispo County,2010,149
+San Luis Obispo County,2015,122
+San Mateo County,1995,143
+San Mateo County,2005,209
+San Mateo County,2010,119
+San Mateo County,2015,92
+Santa Barbara County,1995,202
+Santa Barbara County,2005,140
+Santa Barbara County,2010,186
+Santa Barbara County,2015,114
+Santa Clara County,1995,162
+Santa Clara County,2005,138
+Santa Clara County,2010,142
+Santa Clara County,2015,104
+Santa Cruz County,1995,126
+Santa Cruz County,2005,197
+Santa Cruz County,2010,101
+Santa Cruz County,2015,74
+Shasta County,1995,388
+Shasta County,2005,336
+Shasta County,2010,300
+Shasta County,2015,201
+Sierra County,1995,211
+Sierra County,2005,418
+Sierra County,2010,251
+Sierra County,2015,135
+Siskiyou County,1995,321
+Siskiyou County,2005,468
+Siskiyou County,2010,239
+Siskiyou County,2015,160
+Solano County,1995,181
+Solano County,2005,174
+Solano County,2010,155
+Solano County,2015,126
+Sonoma County,1995,137
+Sonoma County,2005,133
+Sonoma County,2010,120
+Sonoma County,2015,95
+Stanislaus County,1995,182
+Stanislaus County,2005,571
+Stanislaus County,2010,219
+Stanislaus County,2015,164
+Sutter County,1995,261
+Sutter County,2005,261
+Sutter County,2010,206
+Sutter County,2015,163
+Tehama County,1995,348
+Tehama County,2005,207
+Tehama County,2010,275
+Tehama County,2015,165
+Trinity County,1995,170
+Trinity County,2005,146
+Trinity County,2010,216
+Trinity County,2015,135
+Tulare County,1995,301
+Tulare County,2005,511
+Tulare County,2010,211
+Tulare County,2015,178
+Tuolumne County,1995,141
+Tuolumne County,2005,254
+Tuolumne County,2010,342
+Tuolumne County,2015,107
+Ventura County,1995,210
+Ventura County,2005,160
+Ventura County,2010,212
+Ventura County,2015,156
+Yolo County,1995,298
+Yolo County,2005,129
+Yolo County,2010,212
+Yolo County,2015,140
+Yuba County,1995,186
+Yuba County,2005,334
+Yuba County,2010,174
+Yuba County,2015,133
