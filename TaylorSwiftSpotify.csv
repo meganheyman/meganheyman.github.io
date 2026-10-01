@@ -1,0 +1,247 @@
+album_release_date,album_release_year,original_album_order,danceability,energy,loudness,acousticness,instrumentalness,valence,tempo,duration_ms,explicit,track_name,track_number,album_name,short_name,key_name,mode_name,,,,,,,,,,,,,artist,featuring,bonus_track,promotional_release,single_release,track_release
+10/24/2006,2006,1,0.41,0.35,0.22,0.95,0.75,0.78,76,232106,FALSE,Tim McGraw,1,Taylor Swift,T.S.,C,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,6/19/2006,6/19/2006
+10/24/2006,2006,1,0.43,0.41,0.13,0.91,0.75,0.8,105.47,173066,FALSE,Picture To Burn,2,Taylor Swift,T.S.,D,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,2/3/2008,10/24/2006
+10/24/2006,2006,1,0.45,0.32,0.25,0.96,0.76,0.48,99.38,203040,FALSE,Teardrops On My Guitar,3,Taylor Swift,T.S.,F,minor,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,2/19/2007,10/24/2006
+10/24/2006,2006,1,0.48,0.38,0.14,0.94,0.74,0.79,114.84,199200,FALSE,A Place In This World,4,Taylor Swift,T.S.,A,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,10/24/2006
+10/24/2006,2006,1,0.44,0.35,0.21,0.95,0.75,0.78,87.59,239013,FALSE,Cold As You,5,Taylor Swift,T.S.,C,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,10/24/2006
+10/24/2006,2006,1,0.44,0.4,0.12,0.93,0.74,0.5,112.35,207106,FALSE,The Outside,6,Taylor Swift,T.S.,F,minor,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,10/24/2006
+10/24/2006,2006,1,0.49,0.36,0.15,0.95,0.74,0.8,143.55,248106,FALSE,Tied Together With A Smile,7,Taylor Swift,T.S.,E,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,10/24/2006
+10/24/2006,2006,1,0.48,0.34,0.23,0.95,0.75,0.5,132.51,236053,FALSE,Stay Beautiful,8,Taylor Swift,T.S.,G#,minor,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,10/24/2006
+10/24/2006,2006,1,0.38,0.37,0.16,0.95,0.74,0.78,83.35,242200,FALSE,Should've Said No,9,Taylor Swift,T.S.,D,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,5/18/2008,10/24/2006
+10/24/2006,2006,1,0.51,0.38,0.17,0.94,0.75,0.8,147.66,213080,FALSE,Mary's Song (Oh My My My),10,Taylor Swift,T.S.,A,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,10/24/2006
+10/24/2006,2006,1,0.45,0.35,0.22,0.96,0.75,0.78,89.1,201106,FALSE,Our Song,11,Taylor Swift,T.S.,A,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,9/9/2007,10/24/2006
+10/24/2006,2006,1,0.47,0.36,0.18,0.95,0.74,0.5,143.55,213053,FALSE,I'm Only Me When I'm With You,12,Taylor Swift,T.S.,D#,minor,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,3/18/2008
+10/24/2006,2006,1,0.44,0.32,0.25,0.97,0.76,0.78,97.51,203226,FALSE,Invisible,13,Taylor Swift,T.S.,G,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,3/18/2008
+10/24/2006,2006,1,0.44,0.35,0.2,0.97,0.74,0.8,152,220146,FALSE,A Perfectly Good Heart,14,Taylor Swift,T.S.,B,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,3/18/2008
+10/24/2006,2006,1,0.43,0.34,0.25,0.94,0.76,0.49,99.38,179066,FALSE,Teardrops On My Guitar (Pop Version),15,Taylor Swift,T.S.,A#,minor,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,3/18/2008
+11/10/2017,2017,6,0.45,0.31,0.33,0.95,0.77,0.81,161.5,208186,FALSE,...Ready For It?,1,reputation,rep,E,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,10/24/2017,10/24/2017
+11/10/2017,2017,6,0.5,0.31,0.31,0.97,0.78,0.79,105.47,244826,FALSE,End Game,2,reputation,rep,D,major,,,,,,,,,,,,,Taylor Swift,"Ed Sheeran, Future",TRUE,NA,11/14/2017,11/10/2017
+11/10/2017,2017,6,0.39,0.32,0.3,0.96,0.76,0.78,83.35,238253,FALSE,I Did Something Bad,3,reputation,rep,A#,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,11/10/2017
+11/10/2017,2017,6,0.35,0.34,0.23,0.96,0.74,0.77,68,236413,FALSE,Don't Blame Me,4,reputation,rep,A,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,11/10/2017
+11/10/2017,2017,6,0.4,0.27,0.42,0.97,0.79,0.46,95.7,232253,FALSE,Delicate,5,reputation,rep,C,minor,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,3/12/2018,11/10/2017
+11/10/2017,2017,6,0.46,0.33,0.3,0.94,0.77,0.8,129.2,211853,FALSE,Look What You Made Me Do,6,reputation,rep,A,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,8/24/2017,8/24/2017
+11/10/2017,2017,6,0.38,0.33,0.27,0.97,0.76,0.77,74.9,227906,FALSE,So It Goes...,7,reputation,rep,E,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,11/10/2017
+11/10/2017,2017,6,0.42,0.28,0.36,0.97,0.78,0.79,123.05,209680,FALSE,Gorgeous,8,reputation,rep,C,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,10/20/2017,NA,10/20/2017
+11/10/2017,2017,6,0.47,0.33,0.28,0.96,0.76,0.81,172.27,233626,FALSE,Getaway Car,9,reputation,rep,C#,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,9/27/2018,11/10/2017
+11/10/2017,2017,6,0.39,0.31,0.33,0.96,0.77,0.79,109.96,214320,FALSE,King Of My Heart,10,reputation,rep,C,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,11/10/2017
+11/10/2017,2017,6,0.48,0.31,0.3,0.97,0.76,0.5,161.5,211506,FALSE,Dancing With Our Hands Tied,11,reputation,rep,D#,minor,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,11/10/2017
+11/10/2017,2017,6,0.46,0.29,0.39,0.95,0.78,0.49,120.19,230373,FALSE,Dress,12,reputation,rep,C,minor,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,11/10/2017
+11/10/2017,2017,6,0.45,0.35,0.27,0.93,0.76,0.51,161.5,207133,FALSE,This Is Why We Can't Have Nice Things,13,reputation,rep,C,minor,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,11/10/2017
+11/10/2017,2017,6,0.44,0.28,0.38,0.95,0.78,0.49,109.96,203506,FALSE,Call It What You Want,14,reputation,rep,A,minor,,,,,,,,,,,,,Taylor Swift,NA,TRUE,11/3/2017,NA,11/3/2017
+11/10/2017,2017,6,0.51,0.23,0.46,0.97,0.82,0.67,184.57,235466,FALSE,New Year's Day,15,reputation,rep,C,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,11/27/2017,11/10/2017
+8/23/2019,2019,7,0.43,0.26,0.34,0.97,0.77,0.49,129.2,170640,FALSE,I Forgot That You Existed,1,Lover,Lover,F,minor,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,8/23/2019
+8/23/2019,2019,7,0.4,0.33,0.25,0.96,0.76,0.49,112.35,178426,FALSE,Cruel Summer,2,Lover,Lover,A,minor,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,6/20/2023,8/23/2019
+8/23/2019,2019,7,0.47,0.34,0.23,0.96,0.75,0.78,103.36,221306,FALSE,Lover,3,Lover,Lover,G,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,8/16/2019,8/16/2019
+8/23/2019,2019,7,0.44,0.33,0.27,0.96,0.75,0.79,109.96,190360,FALSE,The Man,4,Lover,Lover,G,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,1/27/2020,8/23/2019
+8/23/2019,2019,7,0.43,0.29,0.28,0.98,0.77,0.38,123.05,211240,FALSE,The Archer,5,Lover,Lover,C,minor,,,,,,,,,,,,,Taylor Swift,NA,TRUE,7/23/2019,NA,7/23/2019
+8/23/2019,2019,7,0.45,0.29,0.34,0.97,0.77,0.46,99.38,173386,FALSE,I Think He Knows,6,Lover,Lover,A#,minor,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,8/23/2019
+8/23/2019,2019,7,0.53,0.29,0.37,0.95,0.78,0.8,152,234146,FALSE,Miss Americana & The Heartbreak Prince,7,Lover,Lover,D,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,8/23/2019
+8/23/2019,2019,7,0.46,0.31,0.34,0.96,0.77,0.79,103.36,222400,FALSE,Paper Rings,8,Lover,Lover,E,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,8/23/2019
+8/23/2019,2019,7,0.4,0.31,0.31,0.96,0.78,0.75,101.33,287266,FALSE,Cornelia Street,9,Lover,Lover,C,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,8/23/2019
+8/23/2019,2019,7,0.44,0.31,0.28,0.96,0.77,0.79,126.05,198533,FALSE,Death By A Thousand Cuts,10,Lover,Lover,B,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,8/23/2019
+8/23/2019,2019,7,0.47,0.29,0.34,0.96,0.78,0.48,156.61,190240,FALSE,London Boy,11,Lover,Lover,F#,minor,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,8/23/2019
+8/23/2019,2019,7,0.44,0.28,0.35,0.97,0.79,0.7,105.47,201586,FALSE,Soon You'll Get Better,12,Lover,Lover,G,major,,,,,,,,,,,,,Taylor Swift,The Chicks,TRUE,NA,NA,8/23/2019
+8/23/2019,2019,7,0.44,0.23,0.49,0.98,0.81,0.63,79.51,200306,FALSE,False God,13,Lover,Lover,B,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,8/23/2019
+8/23/2019,2019,7,0.46,0.33,0.29,0.95,0.76,0.81,172.27,171360,FALSE,You Need To Calm Down,14,Lover,Lover,D,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,6/14/2019,6/14/2019
+8/23/2019,2019,7,0.46,0.27,0.37,0.98,0.77,0.75,112.35,223293,FALSE,Afterglow,15,Lover,Lover,B,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,8/23/2019
+8/23/2019,2019,7,0.38,0.35,0.25,0.94,0.75,0.49,90.67,193000,FALSE,ME!,16,Lover,Lover,C,minor,,,,,,,,,,,,,Taylor Swift,"Brendon Urie, Panic! At The Disco",TRUE,NA,4/26/2019,4/26/2019
+8/23/2019,2019,7,0.54,0.26,0.38,0.97,0.8,0.45,143.55,150440,FALSE,It's Nice To Have A Friend,17,Lover,Lover,A#,minor,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,8/23/2019
+8/23/2019,2019,7,0.44,0.31,0.23,0.97,0.75,0.7,99.38,293453,FALSE,Daylight,18,Lover,Lover,G,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,8/23/2019
+7/24/2020,2020,8,0.49,0.27,0.38,0.97,0.79,0.76,143.55,210240,TRUE,the 1,1,folklore,folklore,C,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,10/9/2020,NA,7/24/2020
+7/24/2020,2020,8,0.42,0.31,0.27,0.96,0.76,0.43,129.2,239560,FALSE,cardigan,2,folklore,folklore,F,minor,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,7/27/2020,7/24/2020
+7/24/2020,2020,8,0.49,0.28,0.36,0.98,0.77,0.77,147.66,231000,TRUE,the last great american dynasty,3,folklore,folklore,G,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,7/24/2020
+7/24/2020,2020,8,0.46,0.33,0.22,0.95,0.75,0.48,156.61,285640,FALSE,exile,4,folklore,folklore,F#,minor,,,,,,,,,,,,,Taylor Swift,Bon Iver,TRUE,NA,8/3/2020,7/24/2020
+7/24/2020,2020,8,0.47,0.31,0.27,0.97,0.76,0.73,129.2,255893,FALSE,my tears ricochet,5,folklore,folklore,C,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,7/24/2020
+7/24/2020,2020,8,0.42,0.31,0.24,0.97,0.75,0.71,112.35,208973,FALSE,mirrorball,6,folklore,folklore,A,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,7/24/2020
+7/24/2020,2020,8,0.4,0.29,0.37,0.96,0.78,0.75,92.29,208906,FALSE,seven,7,folklore,folklore,E,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,7/24/2020
+7/24/2020,2020,8,0.39,0.34,0.21,0.96,0.75,0.46,120.19,261920,FALSE,august,8,folklore,folklore,C,minor,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,7/24/2020
+7/24/2020,2020,8,0.43,0.32,0.23,0.98,0.75,0.72,136,195106,FALSE,this is me trying,9,folklore,folklore,E,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,7/24/2020
+7/24/2020,2020,8,0.45,0.3,0.31,0.97,0.76,0.49,123.05,190893,FALSE,illicit affairs,10,folklore,folklore,A#,minor,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,7/24/2020
+7/24/2020,2020,8,0.42,0.26,0.45,0.97,0.8,0.76,112.35,252880,FALSE,invisible string,11,folklore,folklore,D#,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,7/24/2020
+7/24/2020,2020,8,0.51,0.31,0.29,0.97,0.76,0.45,143.55,237266,TRUE,mad woman,12,folklore,folklore,F,minor,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,7/24/2020
+7/24/2020,2020,8,0.41,0.28,0.35,0.97,0.78,0.4,123.05,289746,FALSE,epiphany,13,folklore,folklore,G#,minor,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,7/24/2020
+7/24/2020,2020,8,0.43,0.34,0.22,0.95,0.75,0.79,95.7,294520,TRUE,betty,14,folklore,folklore,C,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,8/17/2020,7/24/2020
+7/24/2020,2020,8,0.46,0.27,0.37,0.96,0.81,0.46,143.55,234000,TRUE,peace,15,folklore,folklore,C,minor,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,7/24/2020
+7/24/2020,2020,8,0.41,0.25,0.41,0.97,0.82,0.38,117.45,220040,FALSE,hoax,16,folklore,folklore,C,minor,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,7/24/2020
+7/24/2020,2020,8,0.41,0.3,0.29,0.97,0.76,0.46,112.35,211813,FALSE,the lakes,17,folklore,folklore,C#,minor,,,,,,,,,,,,,Taylor Swift,NA,TRUE,7/24/2021,NA,7/24/2020
+12/11/2020,2020,9,0.49,0.31,0.32,0.95,0.78,0.77,166.71,214706,FALSE,willow,1,evermore,evermore,A,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,12/11/2020,12/11/2020
+12/11/2020,2020,9,0.5,0.31,0.26,0.96,0.77,0.75,172.27,244000,TRUE,champagne problems,2,evermore,evermore,C,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,12/11/2020
+12/11/2020,2020,9,0.47,0.29,0.31,0.97,0.77,0.71,152,185320,TRUE,gold rush,3,evermore,evermore,A,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,12/11/2020
+12/11/2020,2020,9,0.53,0.31,0.31,0.96,0.77,0.45,147.66,229840,FALSE,'tis the damn season,4,evermore,evermore,F,minor,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,12/11/2020
+12/11/2020,2020,9,0.47,0.28,0.33,0.97,0.79,0.71,152,245440,TRUE,tolerate it,5,evermore,evermore,A,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,12/11/2020
+12/11/2020,2020,9,0.44,0.33,0.29,0.95,0.76,0.48,79.51,215626,FALSE,"no body, no crime",6,evermore,evermore,A#,minor,,,,,,,,,,,,,Taylor Swift,HAIM,TRUE,NA,1/11/2021,12/11/2020
+12/11/2020,2020,9,0.43,0.29,0.34,0.97,0.77,0.71,123.05,315146,TRUE,happiness,7,evermore,evermore,B,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,12/11/2020
+12/11/2020,2020,9,0.47,0.3,0.29,0.97,0.77,0.74,123.05,225880,FALSE,dorothea,8,evermore,evermore,E,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,12/11/2020
+12/11/2020,2020,9,0.41,0.28,0.35,0.97,0.79,0.38,117.45,275320,FALSE,coney island,9,evermore,evermore,A#,minor,,,,,,,,,,,,,Taylor Swift,The National,TRUE,NA,1/18/2021,12/11/2020
+12/11/2020,2020,9,0.41,0.3,0.32,0.96,0.78,0.74,92.29,260440,TRUE,ivy,10,evermore,evermore,D,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,12/11/2020
+12/11/2020,2020,9,0.45,0.3,0.32,0.96,0.77,0.71,129.2,275040,TRUE,cowboy like me,11,evermore,evermore,E,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,12/11/2020
+12/11/2020,2020,9,0.42,0.3,0.3,0.97,0.78,0.71,79.51,215920,FALSE,long story short,12,evermore,evermore,C,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,12/11/2020
+12/11/2020,2020,9,0.46,0.31,0.3,0.96,0.77,0.47,129.2,257773,FALSE,marjorie,13,evermore,evermore,F,minor,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,12/11/2020
+12/11/2020,2020,9,0.47,0.29,0.33,0.97,0.79,0.74,152,180653,FALSE,closure,14,evermore,evermore,A,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,12/11/2020
+12/11/2020,2020,9,0.43,0.3,0.28,0.97,0.78,0.39,112.35,304106,FALSE,evermore,15,evermore,evermore,G#,minor,,,,,,,,,,,,,Taylor Swift,Bon Iver,TRUE,NA,NA,12/11/2020
+12/11/2020,2020,9,0.42,0.33,0.21,0.95,0.75,0.4,68.91,245026,FALSE,right where you left me,16,evermore,evermore,F,minor,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,12/11/2020
+12/11/2020,2020,9,0.47,0.29,0.36,0.97,0.78,0.75,152,254640,FALSE,it's time to go,17,evermore,evermore,G,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,12/11/2020
+4/9/2021,2021,2,0.42,0.35,0.26,0.95,0.76,0.49,101.33,241591,FALSE,Fearless (Taylor's Version),1,Fearless (Taylor's Version),Fearless,F,minor,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,4/9/2021
+4/9/2021,2021,2,0.45,0.34,0.25,0.95,0.75,0.79,95.7,294419,FALSE,Fifteen (Taylor's Version),2,Fearless (Taylor's Version),Fearless,A,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,4/9/2021
+4/9/2021,2021,2,0.47,0.37,0.18,0.94,0.74,0.8,120.19,235766,FALSE,Love Story (Taylor's Version),3,Fearless (Taylor's Version),Fearless,A,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,2/12/2021,2/12/2021
+4/9/2021,2021,2,0.42,0.3,0.33,0.96,0.76,0.78,93.96,234515,FALSE,White Horse (Taylor's Version),5,Fearless (Taylor's Version),Fearless,D,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,4/9/2021
+4/9/2021,2021,2,0.43,0.38,0.18,0.93,0.75,0.5,129.2,231124,FALSE,You Belong With Me (Taylor's Version),6,Fearless (Taylor's Version),Fearless,A#,minor,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,4/9/2021
+4/9/2021,2021,2,0.45,0.36,0.22,0.93,0.75,0.5,129.2,261842,FALSE,You're Not Sorry (Taylor's Version),9,Fearless (Taylor's Version),Fearless,F#,minor,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,4/9/2021
+4/9/2021,2021,2,0.45,0.37,0.19,0.93,0.76,0.48,79.51,243136,FALSE,The Way I Loved You (Taylor's Version),10,Fearless (Taylor's Version),Fearless,A,minor,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,4/9/2021
+4/9/2021,2021,2,0.42,0.37,0.24,0.93,0.76,0.5,129.2,225328,FALSE,Forever & Always (Taylor's Version),11,Fearless (Taylor's Version),Fearless,F,minor,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,4/9/2021
+4/9/2021,2021,2,0.48,0.3,0.38,0.96,0.78,0.5,126.05,245290,FALSE,The Best Day (Taylor's Version),12,Fearless (Taylor's Version),Fearless,C#,minor,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,4/9/2021
+4/9/2021,2021,2,0.45,0.36,0.22,0.94,0.74,0.49,95.7,279359,FALSE,Change (Taylor's Version),13,Fearless (Taylor's Version),Fearless,F,minor,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,4/9/2021
+4/9/2021,2021,2,0.48,0.36,0.23,0.93,0.76,0.81,161.5,237580,FALSE,Jump Then Fall (Taylor's Version),14,Fearless (Taylor's Version),Fearless,A,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,4/9/2021
+4/9/2021,2021,2,0.47,0.34,0.25,0.94,0.76,0.49,99.38,312107,FALSE,Untouchable (Taylor's Version),15,Fearless (Taylor's Version),Fearless,G,minor,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,4/9/2021
+4/9/2021,2021,2,0.44,0.31,0.27,0.96,0.75,0.79,117.45,267833,FALSE,Forever & Always (Piano Version) [Taylor's Version],16,Fearless (Taylor's Version),Fearless,C#,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,4/9/2021
+4/9/2021,2021,2,0.46,0.37,0.2,0.93,0.75,0.8,136,237338,FALSE,Come In With The Rain (Taylor's Version),17,Fearless (Taylor's Version),Fearless,G,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,4/9/2021
+4/9/2021,2021,2,0.53,0.33,0.28,0.95,0.76,0.81,172.27,263865,FALSE,SuperStar (Taylor's Version),18,Fearless (Taylor's Version),Fearless,D,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,4/9/2021
+4/9/2021,2021,2,0.4,0.38,0.18,0.92,0.75,0.8,109.96,238443,FALSE,The Other Side Of The Door (Taylor's Version),19,Fearless (Taylor's Version),Fearless,E,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,4/9/2021
+4/9/2021,2021,2,0.48,0.35,0.23,0.95,0.75,0.8,156.61,241822,FALSE,Today Was A Fairytale (Taylor's Version),20,Fearless (Taylor's Version),Fearless,G,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,4/9/2021
+4/9/2021,2021,2,0.51,0.3,0.31,0.97,0.77,0.73,143.55,220839,FALSE,You All Over Me (Taylor's Version) [From The Vault],21,Fearless (Taylor's Version),Fearless,D,major,,,,,,,,,,,,,Taylor Swift,Maren Morris,TRUE,3/26/2021,NA,3/26/2021
+4/9/2021,2021,2,0.49,0.37,0.19,0.94,0.75,0.8,136,277591,FALSE,Mr. Perfectly Fine (Taylor's Version) [From The Vault],22,Fearless (Taylor's Version),Fearless,D,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,4/7/2021,NA,4/7/2021
+4/9/2021,2021,2,0.44,0.3,0.3,0.97,0.77,0.73,107.67,244236,FALSE,We Were Happy (Taylor's Version) [From The Vault],23,Fearless (Taylor's Version),Fearless,C,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,4/9/2021
+4/9/2021,2021,2,0.45,0.33,0.24,0.96,0.76,0.49,120.19,189495,FALSE,That's When (Taylor's Version) [From The Vault],24,Fearless (Taylor's Version),Fearless,F,minor,,,,,,,,,,,,,Taylor Swift,Keith Urban,TRUE,NA,NA,4/9/2021
+4/9/2021,2021,2,0.44,0.28,0.37,0.95,0.78,0.49,101.33,208608,FALSE,Don't You (Taylor's Version) [From The Vault],25,Fearless (Taylor's Version),Fearless,D#,minor,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,4/9/2021
+4/9/2021,2021,2,0.48,0.33,0.25,0.95,0.76,0.51,161.5,242157,FALSE,Bye Bye Baby (Taylor's Version) [From The Vault],26,Fearless (Taylor's Version),Fearless,F,minor,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,4/9/2021
+11/12/2021,2021,4,0.46,0.36,0.19,0.94,0.74,0.8,129.2,295413,FALSE,State Of Grace (Taylor's Version),1,Red (Taylor's Version),Red,G#,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,11/12/2021
+11/12/2021,2021,4,0.43,0.33,0.26,0.97,0.75,0.79,126.05,223093,FALSE,Red (Taylor's Version),2,Red (Taylor's Version),Red,B,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,11/12/2021
+11/12/2021,2021,4,0.47,0.35,0.2,0.96,0.74,0.79,109.96,242720,FALSE,Treacherous (Taylor's Version),3,Red (Taylor's Version),Red,A,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,11/12/2021
+11/12/2021,2021,4,0.4,0.36,0.24,0.94,0.76,0.5,123.05,219760,FALSE,I Knew You Were Trouble (Taylor's Version),4,Red (Taylor's Version),Red,A#,minor,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,11/12/2021
+11/12/2021,2021,4,0.4,0.32,0.31,0.96,0.76,0.78,93.96,329160,FALSE,All Too Well (Taylor's Version),5,Red (Taylor's Version),Red,C,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,11/12/2021
+11/12/2021,2021,4,0.4,0.33,0.31,0.96,0.77,0.79,103.36,230960,FALSE,22 (Taylor's Version),6,Red (Taylor's Version),Red,B,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,11/12/2021
+11/12/2021,2021,4,0.49,0.32,0.3,0.96,0.76,0.8,143.55,244586,FALSE,I Almost Do (Taylor's Version),7,Red (Taylor's Version),Red,F#,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,11/12/2021
+11/12/2021,2021,4,0.33,0.33,0.28,0.95,0.76,0.78,86.13,193146,FALSE,We Are Never Ever Getting Back Together (Taylor's Version),8,Red (Taylor's Version),Red,G,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,11/12/2021
+11/12/2021,2021,4,0.44,0.33,0.28,0.94,0.76,0.79,99.38,205786,FALSE,Stay Stay Stay (Taylor's Version),9,Red (Taylor's Version),Red,C,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,11/12/2021
+11/12/2021,2021,4,0.42,0.34,0.22,0.96,0.75,0.78,93.96,299080,FALSE,The Last Time (Taylor's Version),10,Red (Taylor's Version),Red,A,major,,,,,,,,,,,,,Taylor Swift,Gary Lightbody,TRUE,NA,NA,11/12/2021
+11/12/2021,2021,4,0.5,0.31,0.31,0.96,0.76,0.49,156.61,202960,FALSE,Holy Ground (Taylor's Version),11,Red (Taylor's Version),Red,B,minor,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,11/12/2021
+11/12/2021,2021,4,0.49,0.3,0.35,0.96,0.78,0.8,132.51,284773,FALSE,Sad Beautiful Tragic (Taylor's Version),12,Red (Taylor's Version),Red,B,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,11/12/2021
+11/12/2021,2021,4,0.44,0.31,0.33,0.96,0.77,0.78,117.45,240466,FALSE,The Lucky One (Taylor's Version),13,Red (Taylor's Version),Red,B,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,11/12/2021
+11/12/2021,2021,4,0.39,0.34,0.25,0.95,0.75,0.48,80.75,245426,FALSE,Everything Has Changed (Taylor's Version),14,Red (Taylor's Version),Red,A#,minor,,,,,,,,,,,,,Taylor Swift,Ed Sheeran,TRUE,NA,NA,11/12/2021
+11/12/2021,2021,4,0.46,0.33,0.29,0.95,0.77,0.8,126.05,220413,FALSE,Starlight (Taylor's Version),15,Red (Taylor's Version),Red,B,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,11/12/2021
+11/12/2021,2021,4,0.45,0.31,0.33,0.95,0.77,0.8,156.61,238866,FALSE,Begin Again (Taylor's Version),16,Red (Taylor's Version),Red,G,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,11/12/2021
+11/12/2021,2021,4,0.46,0.33,0.29,0.95,0.76,0.8,126.05,285280,FALSE,The Moment I Knew (Taylor's Version),17,Red (Taylor's Version),Red,G,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,11/12/2021
+11/12/2021,2021,4,0.49,0.36,0.21,0.95,0.75,0.81,161.5,223333,FALSE,Come Back...Be Here (Taylor's Version),18,Red (Taylor's Version),Red,B,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,11/12/2021
+11/12/2021,2021,4,0.46,0.31,0.33,0.96,0.76,0.49,126.05,220520,FALSE,Girl At Home (Taylor's Version),19,Red (Taylor's Version),Red,C,minor,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,11/12/2021
+11/12/2021,2021,4,0.42,0.24,0.49,0.96,0.8,0.74,103.36,321640,FALSE,State Of Grace (Acoustic Version) [Taylor's Version],20,Red (Taylor's Version),Red,D,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,11/12/2021
+11/12/2021,2021,4,0.43,0.29,0.32,0.95,0.75,0.79,117.45,264253,FALSE,Ronan (Taylor's Version),21,Red (Taylor's Version),Red,C,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,11/12/2021
+11/12/2021,2021,4,0.51,0.34,0.21,0.96,0.75,0.8,152,297013,FALSE,Better Man (Taylor's Version) [From The Vault],22,Red (Taylor's Version),Red,E,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,11/12/2021
+11/12/2021,2021,4,0.44,0.29,0.35,0.96,0.78,0.73,99.38,258812,FALSE,Nothing New (Taylor's Version) [From The Vault],23,Red (Taylor's Version),Red,C,major,,,,,,,,,,,,,Taylor Swift,Phoebe Bridgers,TRUE,NA,NA,11/12/2021
+11/12/2021,2021,4,0.39,0.35,0.23,0.95,0.75,0.78,83.35,224240,FALSE,Babe (Taylor's Version) [From The Vault],24,Red (Taylor's Version),Red,B,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,11/12/2021
+11/12/2021,2021,4,0.42,0.33,0.28,0.95,0.75,0.79,114.84,225960,FALSE,Message In A Bottle (Taylor's Version) [From The Vault],25,Red (Taylor's Version),Red,G,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,11/12/2021
+11/12/2021,2021,4,0.36,0.35,0.21,0.96,0.75,0.79,101.33,285106,TRUE,I Bet You Think About Me (Taylor's Version) [From The Vault],26,Red (Taylor's Version),Red,C,major,,,,,,,,,,,,,Taylor Swift,Chris Stapleton,TRUE,NA,NA,11/12/2021
+11/12/2021,2021,4,0.47,0.36,0.19,0.95,0.74,0.79,114.84,263533,FALSE,Forever Winter (Taylor's Version) [From The Vault],27,Red (Taylor's Version),Red,G,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,11/12/2021
+11/12/2021,2021,4,0.43,0.3,0.31,0.96,0.78,0.76,123.05,240226,FALSE,Run (Taylor's Version) [From The Vault],28,Red (Taylor's Version),Red,D#,major,,,,,,,,,,,,,Taylor Swift,Ed Sheeran,TRUE,NA,NA,11/12/2021
+11/12/2021,2021,4,0.46,0.32,0.31,0.96,0.76,0.79,120.19,200280,FALSE,The Very First Night (Taylor's Version) [From The Vault],29,Red (Taylor's Version),Red,G,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,11/12/2021
+11/12/2021,2021,4,0.42,0.32,0.27,0.96,0.76,0.77,92.29,613026,TRUE,All Too Well (10 Minute Version) [Taylor's Version] [From The Vault],30,Red (Taylor's Version),Red,C,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,11/15/2021,NA,11/12/2021
+10/21/2022,2022,10,0.39,0.25,0.46,0.97,0.81,0.39,97.51,202395,TRUE,Lavender Haze,1,Midnights,Midnights,C,minor,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,11/29/2022,10/21/2022
+10/21/2022,2022,10,0.4,0.31,0.32,0.96,0.77,0.79,107.67,218270,TRUE,Maroon,2,Midnights,Midnights,G,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,10/21/2022
+10/21/2022,2022,10,0.41,0.32,0.28,0.96,0.76,0.8,129.2,200690,FALSE,Anti-Hero,3,Midnights,Midnights,E,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,10/24/2022,10/21/2022
+10/21/2022,2022,10,0.45,0.26,0.41,0.98,0.78,0.35,109.96,256124,TRUE,Snow On The Beach,4,Midnights,Midnights,A,minor,,,,,,,,,,,,,Taylor Swift,Lana Del Rey,TRUE,NA,NA,10/21/2022
+10/21/2022,2022,10,0.45,0.28,0.37,0.97,0.79,0.68,120.19,194206,FALSE,"You're On Your Own, Kid",5,Midnights,Midnights,D,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,10/21/2022
+10/21/2022,2022,10,0.41,0.26,0.42,0.97,0.79,0.4,69.84,174782,FALSE,Midnight Rain,6,Midnights,Midnights,C,minor,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,10/21/2022
+10/21/2022,2022,10,0.45,0.29,0.36,0.95,0.78,0.79,109.96,210556,TRUE,Question...?,7,Midnights,Midnights,C,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,10/21/2022
+10/21/2022,2022,10,0.4,0.22,0.48,0.97,0.82,0.71,80.75,164801,TRUE,Vigilante Shit,8,Midnights,Midnights,C,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,10/21/2022
+10/21/2022,2022,10,0.39,0.3,0.33,0.96,0.77,0.79,109.96,194165,FALSE,Bejeweled,9,Midnights,Midnights,C,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,10/25/2022,NA,10/21/2022
+10/21/2022,2022,10,0.41,0.28,0.34,0.96,0.78,0.67,112.35,247962,FALSE,Labyrinth,10,Midnights,Midnights,C,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,10/21/2022
+10/21/2022,2022,10,0.4,0.32,0.32,0.95,0.77,0.49,120.19,204852,TRUE,Karma,11,Midnights,Midnights,A#,minor,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,5/1/2023,10/21/2022
+10/21/2022,2022,10,0.43,0.27,0.35,0.96,0.79,0.76,120.19,188496,FALSE,Sweet Nothing,12,Midnights,Midnights,F,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,10/21/2022
+10/21/2022,2022,10,0.42,0.22,0.52,0.98,0.82,0.61,126.05,191039,FALSE,Mastermind,13,Midnights,Midnights,B,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,10/21/2022
+10/21/2022,2022,10,0.4,0.33,0.28,0.95,0.76,0.78,95.7,240355,FALSE,The Great War,14,Midnights,Midnights,C,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,10/21/2022
+10/21/2022,2022,10,0.44,0.31,0.31,0.97,0.76,0.49,105.47,234466,TRUE,Hits Different,15,Midnights,Midnights,F,minor,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,10/21/2022
+10/21/2022,2022,10,0.38,0.26,0.41,0.97,0.8,0.33,107.67,218502,FALSE,Bigger Than The Whole Sky,16,Midnights,Midnights,G#,minor,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,10/21/2022
+10/21/2022,2022,10,0.4,0.29,0.34,0.96,0.78,0.76,117.45,196258,FALSE,Paris,18,Midnights,Midnights,G,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,10/21/2022
+10/21/2022,2022,10,0.43,0.3,0.32,0.97,0.78,0.75,117.45,231475,FALSE,High Infidelity,20,Midnights,Midnights,A#,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,10/21/2022
+10/21/2022,2022,10,0.47,0.29,0.36,0.96,0.78,0.8,143.55,148781,FALSE,Glitch,21,Midnights,Midnights,B,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,10/21/2022
+10/21/2022,2022,10,0.45,0.33,0.2,0.97,0.75,0.72,156.61,260361,FALSE,"Would've, Could've, Should've",22,Midnights,Midnights,G,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,10/21/2022
+10/21/2022,2022,10,0.41,0.25,0.46,0.98,0.8,0.66,103.36,277831,FALSE,You're Losing Me (From The Vault),23,Midnights,Midnights,C,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,11/29/2023,NA,5/26/2023
+10/21/2022,2022,10,0.44,0.25,0.44,0.97,0.79,0.7,107.67,225194,FALSE,Dear Reader,24,Midnights,Midnights,D,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,10/21/2022
+10/21/2022,2022,10,0.45,0.29,0.35,0.98,0.77,0.4,109.96,229942,TRUE,Snow On The Beach (More Lana Del Rey),25,Midnights,Midnights,G#,minor,,,,,,,,,,,,,Taylor Swift,Lana Del Rey,TRUE,NA,NA,5/26/2023
+10/21/2022,2022,10,0.37,0.33,0.29,0.94,0.76,0.49,90.67,201493,TRUE,Karma (Remix),26,Midnights,Midnights,A#,minor,,,,,,,,,,,,,Taylor Swift,Ice Spice,TRUE,NA,NA,5/26/2023
+7/7/2023,2023,3,0.48,0.36,0.21,0.94,0.74,0.8,123.05,231706,FALSE,Mine (Taylor's Version),1,Speak Now (Taylor's Version),Speak Now,D,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,7/7/2023
+7/7/2023,2023,3,0.45,0.36,0.2,0.94,0.74,0.5,114.84,261230,FALSE,Sparks Fly (Taylor's Version),2,Speak Now (Taylor's Version),Speak Now,F,minor,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,7/7/2023
+7/7/2023,2023,3,0.49,0.36,0.2,0.94,0.75,0.8,139.67,294189,FALSE,Back To December (Taylor's Version),3,Speak Now (Taylor's Version),Speak Now,D,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,7/7/2023
+7/7/2023,2023,3,0.48,0.37,0.21,0.93,0.75,0.8,120.19,242473,FALSE,Speak Now (Taylor's Version),4,Speak Now (Taylor's Version),Speak Now,G,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,7/7/2023
+7/7/2023,2023,3,0.47,0.34,0.23,0.95,0.74,0.79,120.19,405906,FALSE,Dear John (Taylor's Version),5,Speak Now (Taylor's Version),Speak Now,G#,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,7/7/2023
+7/7/2023,2023,3,0.42,0.34,0.26,0.94,0.76,0.78,82.03,238693,FALSE,Mean (Taylor's Version),6,Speak Now (Taylor's Version),Speak Now,E,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,7/7/2023
+7/7/2023,2023,3,0.41,0.36,0.2,0.94,0.74,0.78,69.84,267653,FALSE,The Story Of Us (Taylor's Version),7,Speak Now (Taylor's Version),Speak Now,E,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,7/7/2023
+7/7/2023,2023,3,0.47,0.3,0.31,0.95,0.75,0.8,123.05,292920,FALSE,Never Grow Up (Taylor's Version),8,Speak Now (Taylor's Version),Speak Now,D,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,7/7/2023
+7/7/2023,2023,3,0.5,0.35,0.22,0.95,0.74,0.51,161.5,353253,FALSE,Enchanted (Taylor's Version),9,Speak Now (Taylor's Version),Speak Now,G#,minor,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,7/7/2023
+7/7/2023,2023,3,0.46,0.36,0.21,0.94,0.75,0.8,147.66,220306,FALSE,Better Than Revenge (Taylor's Version),10,Speak Now (Taylor's Version),Speak Now,A,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,7/7/2023
+7/7/2023,2023,3,0.48,0.36,0.2,0.94,0.75,0.8,147.66,301221,FALSE,Innocent (Taylor's Version),11,Speak Now (Taylor's Version),Speak Now,G#,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,7/7/2023
+7/7/2023,2023,3,0.49,0.36,0.21,0.95,0.75,0.81,161.5,245413,FALSE,Haunted (Taylor's Version),12,Speak Now (Taylor's Version),Speak Now,A,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,7/7/2023
+7/7/2023,2023,3,0.5,0.33,0.26,0.96,0.76,0.8,156.61,369120,FALSE,Last Kiss (Taylor's Version),13,Speak Now (Taylor's Version),Speak Now,A,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,7/7/2023
+7/7/2023,2023,3,0.45,0.36,0.22,0.94,0.74,0.79,101.33,317960,FALSE,Long Live (Taylor's Version),14,Speak Now (Taylor's Version),Speak Now,G,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,7/7/2023
+7/7/2023,2023,3,0.48,0.32,0.32,0.95,0.77,0.8,156.61,235803,FALSE,Ours (Taylor's Version),15,Speak Now (Taylor's Version),Speak Now,G,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,7/7/2023
+7/7/2023,2023,3,0.5,0.34,0.25,0.95,0.74,0.8,132.51,274945,FALSE,Superman (Taylor's Version),16,Speak Now (Taylor's Version),Speak Now,A,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,7/7/2023
+7/7/2023,2023,3,0.39,0.36,0.18,0.96,0.73,0.8,132.51,266466,FALSE,Electric Touch (Taylor's Version) [From The Vault],17,Speak Now (Taylor's Version),Speak Now,G,major,,,,,,,,,,,,,Taylor Swift,Fall Out Boy,TRUE,NA,NA,7/7/2023
+7/7/2023,2023,3,0.47,0.34,0.25,0.96,0.75,0.8,156.61,252385,FALSE,When Emma Falls In Love (Taylor's Version) [From The Vault],18,Speak Now (Taylor's Version),Speak Now,D,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,7/7/2023
+7/7/2023,2023,3,0.43,0.35,0.21,0.95,0.75,0.5,123.05,273186,FALSE,I Can See You (Taylor's Version) [From The Vault],19,Speak Now (Taylor's Version),Speak Now,F#,minor,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,7/7/2023
+7/7/2023,2023,3,0.48,0.31,0.29,0.97,0.76,0.75,147.66,306062,FALSE,Castles Crumbling (Taylor's Version) [From The Vault],20,Speak Now (Taylor's Version),Speak Now,G,major,,,,,,,,,,,,,Taylor Swift,Hayley Williams,TRUE,NA,NA,7/7/2023
+7/7/2023,2023,3,0.41,0.32,0.28,0.97,0.76,0.76,97.51,311765,FALSE,Foolish One (Taylor's Version) [From The Vault],21,Speak Now (Taylor's Version),Speak Now,G,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,7/7/2023
+7/7/2023,2023,3,0.5,0.37,0.17,0.93,0.75,0.81,143.55,321396,FALSE,Timeless (Taylor's Version) [From The Vault],22,Speak Now (Taylor's Version),Speak Now,G,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,7/7/2023
+10/27/2023,2023,5,0.48,0.31,0.31,0.97,0.76,0.79,117.45,212600,FALSE,Welcome To New York (Taylor's Version),1,1989 (Taylor's Version),1989,G,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,10/27/2023
+10/27/2023,2023,5,0.42,0.32,0.28,0.95,0.76,0.49,95.7,231833,FALSE,Blank Space (Taylor's Version),2,1989 (Taylor's Version),1989,F,minor,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,10/27/2023
+10/27/2023,2023,5,0.43,0.33,0.27,0.95,0.74,0.79,95.7,231000,FALSE,Style (Taylor's Version),3,1989 (Taylor's Version),1989,A,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,10/27/2023
+10/27/2023,2023,5,0.37,0.34,0.25,0.96,0.75,0.78,92.29,235800,FALSE,Out Of The Woods (Taylor's Version),4,1989 (Taylor's Version),1989,C,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,10/27/2023
+10/27/2023,2023,5,0.39,0.33,0.3,0.95,0.77,0.49,97.51,193289,FALSE,All You Had To Do Was Stay (Taylor's Version),5,1989 (Taylor's Version),1989,C,minor,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,10/27/2023
+10/27/2023,2023,5,0.5,0.35,0.22,0.95,0.74,0.81,161.5,219209,FALSE,Shake It Off (Taylor's Version),6,1989 (Taylor's Version),1989,D,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,10/27/2023
+10/27/2023,2023,5,0.4,0.33,0.27,0.96,0.75,0.79,117.45,207650,FALSE,I Wish You Would (Taylor's Version),7,1989 (Taylor's Version),1989,C,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,10/27/2023
+10/27/2023,2023,5,0.4,0.3,0.31,0.97,0.77,0.79,112.35,211103,FALSE,Bad Blood (Taylor's Version),8,1989 (Taylor's Version),1989,B,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,10/27/2023
+10/27/2023,2023,5,0.41,0.32,0.26,0.96,0.75,0.49,123.05,220433,FALSE,Wildest Dreams (Taylor's Version),9,1989 (Taylor's Version),1989,G#,minor,,,,,,,,,,,,,Taylor Swift,NA,TRUE,9/17/2021,NA,9/17/2021
+10/27/2023,2023,5,0.48,0.33,0.27,0.96,0.75,0.5,161.5,247533,FALSE,How You Get The Girl (Taylor's Version),10,1989 (Taylor's Version),1989,F,minor,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,10/27/2023
+10/27/2023,2023,5,0.51,0.32,0.28,0.96,0.75,0.8,143.55,250100,FALSE,This Love (Taylor's Version),11,1989 (Taylor's Version),1989,E,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,5/6/2022,NA,5/6/2022
+10/27/2023,2023,5,0.38,0.33,0.28,0.96,0.75,0.78,79.51,195700,FALSE,I Know Places (Taylor's Version),12,1989 (Taylor's Version),1989,C,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,10/27/2023
+10/27/2023,2023,5,0.46,0.28,0.37,0.98,0.77,0.7,103.36,271000,FALSE,Clean (Taylor's Version),13,1989 (Taylor's Version),1989,E,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,10/27/2023
+10/27/2023,2023,5,0.45,0.31,0.28,0.97,0.76,0.49,123.05,245566,FALSE,Wonderland (Taylor's Version),14,1989 (Taylor's Version),1989,D#,minor,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,10/27/2023
+10/27/2023,2023,5,0.42,0.32,0.27,0.96,0.76,0.77,114.84,267389,FALSE,You Are In Love (Taylor's Version),15,1989 (Taylor's Version),1989,A,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,10/27/2023
+10/27/2023,2023,5,0.43,0.36,0.21,0.96,0.74,0.49,123.05,230177,FALSE,New Romantics (Taylor's Version),16,1989 (Taylor's Version),1989,F,minor,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,10/27/2023
+10/27/2023,2023,5,0.39,0.3,0.35,0.96,0.77,0.79,103.36,180381,FALSE,"""Slut!"" (Taylor's Version) [From The Vault]",17,1989 (Taylor's Version),1989,D,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,10/27/2023,10/27/2023
+10/27/2023,2023,5,0.41,0.32,0.27,0.96,0.75,0.79,109.96,279833,FALSE,Say Don't Go (Taylor's Version) [From The Vault],18,1989 (Taylor's Version),1989,B,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,10/27/2023
+10/27/2023,2023,5,0.4,0.3,0.34,0.95,0.78,0.79,109.96,146436,FALSE,Now That We Don't Talk (Taylor's Version) [From The Vault],19,1989 (Taylor's Version),1989,E,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,10/27/2023
+10/27/2023,2023,5,0.42,0.32,0.29,0.95,0.76,0.79,117.45,171818,FALSE,Suburban Legends (Taylor's Version) [From The Vault],20,1989 (Taylor's Version),1989,C,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,10/27/2023
+10/27/2023,2023,5,0.39,0.36,0.22,0.94,0.75,0.49,99.38,229477,FALSE,Is It Over Now? (Taylor's Version) [From The Vault],21,1989 (Taylor's Version),1989,C,minor,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,10/31/2023,10/27/2023
+10/27/2023,2023,5,0.43,0.31,0.31,0.96,0.76,0.78,84.72,199773,FALSE,Bad Blood (Remix) [Taylor's Version],22,1989 (Taylor's Version),1989,B,major,,,,,,,,,,,,,Taylor Swift,Kendrick Lamar,TRUE,NA,NA,10/27/2023
+4/19/2024,2024,11,0.43,0.3,0.36,0.97,0.77,0.74,95.7,228965,FALSE,Fortnight,1,THE TORTURED POETS DEPARTMENT,TTPD,B,major,,,,,,,,,,,,,Taylor Swift,Post Malone,TRUE,NA,4/19/2024,4/19/2024
+4/19/2024,2024,11,0.43,0.31,0.3,0.97,0.76,0.48,109.96,293048,TRUE,The Tortured Poets Department,2,THE TORTURED POETS DEPARTMENT,TTPD,C,minor,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,4/19/2024
+4/19/2024,2024,11,0.39,0.32,0.3,0.98,0.76,0.75,97.51,203801,FALSE,My Boy Only Breaks His Favorite Toys,3,THE TORTURED POETS DEPARTMENT,TTPD,C,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,4/19/2024
+4/19/2024,2024,11,0.49,0.28,0.39,0.96,0.78,0.75,161.5,261228,TRUE,Down Bad,4,THE TORTURED POETS DEPARTMENT,TTPD,B,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,4/19/2024
+4/19/2024,2024,11,0.39,0.28,0.38,0.97,0.78,0.7,117.45,262974,FALSE,"So Long, London",5,THE TORTURED POETS DEPARTMENT,TTPD,C#,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,4/19/2024
+4/19/2024,2024,11,0.42,0.35,0.23,0.95,0.75,0.79,105.47,340428,TRUE,But Daddy I Love Him,6,THE TORTURED POETS DEPARTMENT,TTPD,E,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,4/19/2024
+4/19/2024,2024,11,0.4,0.33,0.22,0.97,0.75,0.78,87.59,210789,FALSE,Fresh Out The Slammer,7,THE TORTURED POETS DEPARTMENT,TTPD,A,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,4/19/2024
+4/19/2024,2024,11,0.47,0.34,0.23,0.95,0.75,0.8,152,215463,TRUE,Florida!!!,8,THE TORTURED POETS DEPARTMENT,TTPD,G,major,,,,,,,,,,,,,Taylor Swift,Florence + The Machine,TRUE,NA,NA,4/19/2024
+4/19/2024,2024,11,0.46,0.34,0.25,0.95,0.75,0.78,95.7,254365,FALSE,Guilty As Sin?,9,THE TORTURED POETS DEPARTMENT,TTPD,D,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,4/19/2024
+4/19/2024,2024,11,0.4,0.29,0.35,0.97,0.77,0.77,123.05,334084,FALSE,Who's Afraid Of Little Old Me?,10,THE TORTURED POETS DEPARTMENT,TTPD,A,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,4/19/2024
+4/19/2024,2024,11,0.45,0.27,0.39,0.96,0.79,0.79,123.05,156297,FALSE,I Can Fix Him (No Really I Can),11,THE TORTURED POETS DEPARTMENT,TTPD,A,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,4/19/2024
+4/19/2024,2024,11,0.41,0.26,0.42,0.98,0.8,0.65,117.45,277156,TRUE,loml,12,THE TORTURED POETS DEPARTMENT,TTPD,C,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,4/19/2024
+4/19/2024,2024,11,0.43,0.33,0.26,0.95,0.76,0.8,129.2,218004,TRUE,I Can Do It With A Broken Heart,13,THE TORTURED POETS DEPARTMENT,TTPD,C,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,7/2/2024,4/19/2024
+4/19/2024,2024,11,0.41,0.29,0.31,0.97,0.79,0.42,95.7,245541,TRUE,The Smallest Man Who Ever Lived,14,THE TORTURED POETS DEPARTMENT,TTPD,F,minor,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,4/19/2024
+4/19/2024,2024,11,0.45,0.33,0.28,0.96,0.75,0.47,99.38,196900,FALSE,The Alchemy,15,THE TORTURED POETS DEPARTMENT,TTPD,C,minor,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,4/19/2024
+4/19/2024,2024,11,0.43,0.3,0.31,0.96,0.77,0.71,103.36,216662,FALSE,Clara Bow,16,THE TORTURED POETS DEPARTMENT,TTPD,D,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,4/19/2024
+4/19/2024,2024,11,0.46,0.31,0.3,0.95,0.77,0.77,152,238857,TRUE,The Black Dog,17,THE TORTURED POETS DEPARTMENT,TTPD,C,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,4/19/2024
+4/19/2024,2024,11,0.42,0.32,0.29,0.95,0.76,0.79,109.96,222072,FALSE,imgonnagetyouback,18,THE TORTURED POETS DEPARTMENT,TTPD,A,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,4/19/2024
+4/19/2024,2024,11,0.37,0.3,0.3,0.97,0.77,0.72,112.35,183878,FALSE,The Albatross,19,THE TORTURED POETS DEPARTMENT,TTPD,F#,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,4/19/2024
+4/19/2024,2024,11,0.4,0.28,0.36,0.97,0.78,0.71,95.7,213281,FALSE,Chloe Or Sam Or Sophia Or Marcus,20,THE TORTURED POETS DEPARTMENT,TTPD,E,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,4/19/2024
+4/19/2024,2024,11,0.46,0.29,0.29,0.98,0.77,0.7,143.55,238706,FALSE,How Did It End?,21,THE TORTURED POETS DEPARTMENT,TTPD,C,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,4/19/2024
+4/19/2024,2024,11,0.4,0.35,0.22,0.95,0.75,0.79,117.45,228800,FALSE,So High School,22,THE TORTURED POETS DEPARTMENT,TTPD,G,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,4/19/2024
+4/19/2024,2024,11,0.36,0.31,0.3,0.96,0.76,0.77,86.13,243875,FALSE,I Hate It Here,23,THE TORTURED POETS DEPARTMENT,TTPD,D,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,4/19/2024
+4/19/2024,2024,11,0.36,0.32,0.28,0.96,0.76,0.78,95.7,263817,TRUE,thanK you aIMee,24,THE TORTURED POETS DEPARTMENT,TTPD,D,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,4/19/2024
+4/19/2024,2024,11,0.43,0.29,0.34,0.95,0.77,0.48,89.1,131907,FALSE,I Look In People's Windows,25,THE TORTURED POETS DEPARTMENT,TTPD,E,minor,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,4/19/2024
+4/19/2024,2024,11,0.43,0.29,0.33,0.96,0.78,0.5,132.51,249807,FALSE,The Prophecy,26,THE TORTURED POETS DEPARTMENT,TTPD,A#,minor,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,4/19/2024
+4/19/2024,2024,11,0.47,0.3,0.29,0.97,0.77,0.42,143.55,240205,TRUE,Cassandra,27,THE TORTURED POETS DEPARTMENT,TTPD,C,minor,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,4/19/2024
+4/19/2024,2024,11,0.43,0.32,0.21,0.96,0.75,0.77,132.51,283957,FALSE,Peter,28,THE TORTURED POETS DEPARTMENT,TTPD,C,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,4/19/2024
+4/19/2024,2024,11,0.4,0.31,0.29,0.97,0.76,0.76,92.29,238241,TRUE,The Bolter,29,THE TORTURED POETS DEPARTMENT,TTPD,C,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,4/19/2024
+4/19/2024,2024,11,0.44,0.27,0.37,0.98,0.78,0.65,136,240893,FALSE,Robin,30,THE TORTURED POETS DEPARTMENT,TTPD,E,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,4/19/2024
+4/19/2024,2024,11,0.39,0.28,0.3,0.98,0.77,0.68,95.7,224743,FALSE,The Manuscript,31,THE TORTURED POETS DEPARTMENT,TTPD,F,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,4/19/2024
+10/3/2025,2025,12,0.58,0.31,0.28,0.97,0.76,0.49,123.05,226073,FALSE,The Fate Of Ophelia,1,The Life of a Showgirl,TLOAS,A,minor,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,10/3/2025,10/3/2025
+10/3/2025,2025,12,0.57,0.33,0.24,0.97,0.75,0.8,166.71,208291,FALSE,Elizabeth Taylor,2,The Life of a Showgirl,TLOAS,D,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,10/3/2025
+10/3/2025,2025,12,0.59,0.33,0.26,0.96,0.76,0.8,126.05,235355,FALSE,Opalite,3,The Life of a Showgirl,TLOAS,A,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,1/12/2026,10/3/2025
+10/3/2025,2025,12,0.49,0.31,0.3,0.97,0.77,0.77,92.29,212777,TRUE,Father Figure,4,The Life of a Showgirl,TLOAS,A,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,10/3/2025
+10/3/2025,2025,12,0.52,0.32,0.3,0.95,0.77,0.8,152,246356,TRUE,Eldest Daughter,5,The Life of a Showgirl,TLOAS,G,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,10/3/2025
+10/3/2025,2025,12,0.49,0.31,0.3,0.97,0.77,0.8,156.61,220564,FALSE,Ruin The Friendship,6,The Life of a Showgirl,TLOAS,G,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,10/3/2025
+10/3/2025,2025,12,0.41,0.31,0.28,0.96,0.77,0.48,84.72,163699,TRUE,Actually Romantic,7,The Life of a Showgirl,TLOAS,E,minor,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,10/3/2025
+10/3/2025,2025,12,0.52,0.28,0.37,0.97,0.78,0.75,152,207349,TRUE,Wi$h Li$t,8,The Life of a Showgirl,TLOAS,C,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,10/3/2025
+10/3/2025,2025,12,0.46,0.3,0.32,0.96,0.78,0.48,99.38,150517,TRUE,Wood,9,The Life of a Showgirl,TLOAS,G,minor,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,10/3/2025
+10/3/2025,2025,12,0.46,0.3,0.31,0.97,0.77,0.76,89.1,211498,TRUE,CANCELLED!,10,The Life of a Showgirl,TLOAS,A,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,10/3/2025
+10/3/2025,2025,12,0.57,0.3,0.32,0.97,0.77,0.8,161.5,181534,TRUE,Honey,11,The Life of a Showgirl,TLOAS,D,major,,,,,,,,,,,,,Taylor Swift,NA,TRUE,NA,NA,10/3/2025
+10/3/2025,2025,12,0.56,0.3,0.3,0.97,0.76,0.8,172.27,241766,TRUE,The Life Of A Showgirl,12,The Life of a Showgirl,TLOAS,G,major,,,,,,,,,,,,,Taylor Swift,Sabrina Carpenter,TRUE,NA,NA,10/3/2025
