@@ -1,0 +1,33 @@
+Organism Type,Temperature,CO2,Treatment,Richness
+Sponge,Typical,Typical,TypicalTemp.TypicalCO2,12.667
+CCA,Typical,Typical,TypicalTemp.TypicalCO2,6.667
+Metazoans,Typical,Typical,TypicalTemp.TypicalCO2,75.8
+Coral microbes,Typical,Typical,TypicalTemp.TypicalCO2,219.04
+Water column microbes,Typical,Typical,TypicalTemp.TypicalCO2,653.4
+Coral algal symbions,Typical,Typical,TypicalTemp.TypicalCO2,2.279069767
+Fleshy algae,Typical,Typical,TypicalTemp.TypicalCO2,4
+Corals,Typical,Typical,TypicalTemp.TypicalCO2,7.7
+Sponge,Typical,Hi,TypicalTemp.HighCO2,9.667
+CCA,Typical,Hi,TypicalTemp.HighCO2,4.167
+Metazoans,Typical,Hi,TypicalTemp.HighCO2,54.67
+Coral microbes,Typical,Hi,TypicalTemp.HighCO2,245.4
+Water column microbes,Typical,Hi,TypicalTemp.HighCO2,571
+Coral algal symbions,Typical,Hi,TypicalTemp.HighCO2,2.192307692
+Fleshy algae,Typical,Hi,TypicalTemp.HighCO2,4.3
+Corals,Typical,Hi,TypicalTemp.HighCO2,7.8
+Sponge,Hi,Typical,HighTemp.TypicalCO2,12.833
+CCA,Hi,Typical,HighTemp.TypicalCO2,5.167
+Metazoans,Hi,Typical,HighTemp.TypicalCO2,108.4
+Coral microbes,Hi,Typical,HighTemp.TypicalCO2,263.6
+Water column microbes,Hi,Typical,HighTemp.TypicalCO2,677.33
+Coral algal symbions,Hi,Typical,HighTemp.TypicalCO2,2.159722222
+Fleshy algae,Hi,Typical,HighTemp.TypicalCO2,3.3
+Corals,Hi,Typical,HighTemp.TypicalCO2,6.4
+Sponge,Hi,Hi,HighTemp.HighCO2,11
+CCA,Hi,Hi,HighTemp.HighCO2,4.5
+Metazoans,Hi,Hi,HighTemp.HighCO2,73.67
+Coral microbes,Hi,Hi,HighTemp.HighCO2,350.43
+Water column microbes,Hi,Hi,HighTemp.HighCO2,683
+Coral algal symbions,Hi,Hi,HighTemp.HighCO2,2.243243243
+Fleshy algae,Hi,Hi,HighTemp.HighCO2,3.3
+Corals,Hi,Hi,HighTemp.HighCO2,6.2
